@@ -1,0 +1,11 @@
+/* style.css */
+body {
+    background-image: url('exer.jpg'); /* Replace with your image path */
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+
+.container {
+    padding: 40px;
+}
